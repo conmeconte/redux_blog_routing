@@ -1,6 +1,7 @@
-# ReduxSimpleStarter
+# Redux blog routing
 
-Simple Redux practice applications 
+
+>Simple blog with redux routing and crud
 
 
 
