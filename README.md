@@ -3,5 +3,3 @@
 
 >Simple blog with redux routing and crud
 
-
-
